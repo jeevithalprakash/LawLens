@@ -67,3 +67,4 @@ Usage
 Install dependencies: pnpm install
 Run linting: pnpm run lint
 Build the project: pnpm run build
+
