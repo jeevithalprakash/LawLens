@@ -7,6 +7,7 @@ Constitution Search: Enables users to search and explore Indian constitutional a
 State Laws Database: Provides access to state-specific laws and their descriptions relevant to Indian law.
 Rights Explainer: Offers clear explanations of common legal rights within the Indian context.
 Legal Aid Locator: Assists users in finding legal aid services based on their geographical location.
+
 Directory Tree
 shadcn-ui/
 ├── README.md
@@ -43,6 +44,7 @@ shadcn-ui/
 │   └── main.tsx
 ├── package.json
 └── vite.config.ts
+
 File Description Inventory
 README.md: Project documentation and setup instructions.
 components/: UI components used throughout the application.
@@ -53,6 +55,7 @@ public/: Includes static assets like favicon and logo.
 src/: Source files including styles and main application logic.
 package.json: Lists project dependencies and scripts.
 vite.config.ts: Configuration for the Vite build tool.
+
 Technology Stack
 React
 TypeScript
